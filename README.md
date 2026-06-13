@@ -91,13 +91,13 @@ To ensure clinical usability and transparency, the following explainability meth
 ## Visualizations
 
 ### Model Performance Comparison
-![Model Comparison](figures/model_comparison.png)
+![Model Comparison](figures/Model_comparison.png)
 
 ### SHAP Explainability (Feature Importance)
-![SHAP Summary](figures/shap_summary.png)
+![SHAP Summary](figures/Shap_summary.png)
 
 ### Patient Risk Stratification
-![Risk Stratification](figures/risk_stratification.png)
+![Risk Stratification](figures/Risk_Stratification.png)
 
 ---
 
